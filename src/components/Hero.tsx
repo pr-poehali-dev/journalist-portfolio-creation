@@ -7,12 +7,12 @@ const Hero = () => {
       <div className="max-w-4xl mx-auto text-center">
         <div className="mb-8">
           <img
-            src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face"
+            src="https://cdn.poehali.dev/files/a0afaf4f-fc19-4a4f-a5d5-aff7e76b3617.jpg"
             alt="Портрет журналиста"
             className="w-32 h-32 rounded-full mx-auto mb-6 border-4 border-white/20 shadow-2xl"
           />
           <h1 className="text-5xl font-bold mb-4 bg-gradient-to-r from-white to-slate-300 bg-clip-text text-transparent">
-            Анна Журналист
+            Дарья Журналист
           </h1>
           <p className="text-xl text-slate-300 mb-6 max-w-2xl mx-auto leading-relaxed">
             Освещаю жизнь города Коврова — от спортивных событий до социальных
